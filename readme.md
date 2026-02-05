@@ -16,9 +16,9 @@ loadstring(game:HttpGet("wehface.vercel.app/loader"))()
 loadstring(game:HttpGet("wehface.vercel.app/cb"))()
 ```
 ## Need more?
-### Site    | [Click](dxbreak.vercel.app)
-### Hosting | [Click](wehface.vercel.app)
-### Discord | [Click](discord.gg/waVwyMJdm8)
+### Site    | [Click](https://dxbreak.vercel.app)
+### Hosting | [Click](https://wehface.vercel.app)
+### Discord | [Click](https://discord.gg/waVwyMJdm8)
 
 ## Other
 #### Old Examples of "xenapsu" [v2.5.54]
