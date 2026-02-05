@@ -32,5 +32,5 @@ ovasse & vellyr
 #### UI - WindUI  | Idea - ovasse⠀⠀&⠀⠀UI - Cerberus | Rewrited - baupexㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 #### CMD - ovasse | Idea - ovasse & baupex
 #### Site - ovasse & vellyr | Idea - ovasse & vellyr & baupex⠀
-##### ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀   DxBreak Team © 2025 - 2026
+##### ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀DxBreak Team © 2025 - 2026
 ![dxbre banner](https://raw.githubusercontent.com/lixeal/DXBRE/main/res/dxbreak_corner-banner.png)
